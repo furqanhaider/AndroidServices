@@ -50,5 +50,11 @@ namespace SaveYourCarServer.Controllers
             }
         }
 
+        public string AboutMe()
+        {
+            string str = "My name is Furqan Haider Hashmi, I am developer of SaveYourCar, Contant me : furqan_haider@hotmail.com";
+            return str;
+        }
+
     }
 }
