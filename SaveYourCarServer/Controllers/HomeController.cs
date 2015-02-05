@@ -56,5 +56,17 @@ namespace SaveYourCarServer.Controllers
             return str;
         }
 
+        public string AboutTahir()
+        {
+            string str = "My name is Tahir Idrees\n I am student of Punjab University College Of Information Technology\n My College Id is BCSF11A097\n This is a 2D Robo_War Game Developed as Term Project of Mobile Computing\n Email: tahir97@gmail.com";
+            return str;
+        }
+
+        public string AboutImran()
+        {
+            string str = "My name is Muhammad Imran, Developing this game but very kutta kam , Contant me : bcsf11a092@pucit.edu.pk.com";
+            return str;
+        }
+
     }
 }
